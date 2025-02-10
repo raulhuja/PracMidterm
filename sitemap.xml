@@ -1,0 +1,43 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/hello-world/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/famous-people-born-on-june-20/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/the-ultimate-birthday-party-ideas/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/blog/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/raulhuja/
+        </loc>
+    </url>
+</urlset>
